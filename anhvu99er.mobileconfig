@@ -29,8 +29,8 @@
 <key>PayloadDescription</key>
 <string>Chặn Thu Hồi By Anhvu99er | © Sylphin
 - Cấu Hình DNS Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
-- Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
-- Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
+- Cài xong nên để khoảng 5 phút rồi mới cài app
+- Lưu ý: KHÔNG Tắt Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
 (Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay.
 Muốn bật VPN thì xóa hết tất cả các app cài bên ngoài đi, dùng xong rồi thì tắt VPN để DNS xác minh tầm 5 phút rồi cài lại)
 </string>
